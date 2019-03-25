@@ -13,6 +13,7 @@ To migrate to this version, please follow the guide:
 # Ethereum JavaScript API
 
 [![Join the chat at https://gitter.im/ethereum/web3.js](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ethereum/web3.js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fleovarmak-koinex%2Fweb3.js.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fleovarmak-koinex%2Fweb3.js?ref=badge_shield)
 
 This is the Ethereum compatible [JavaScript API](https://github.com/ethereum/wiki/wiki/JavaScript-API)
 which implements the [Generic JSON RPC](https://github.com/ethereum/wiki/wiki/JSON-RPC) spec. It's available on npm as a node module, for bower and component as an embeddable js and as a meteor.js package.
@@ -117,3 +118,7 @@ npm test
 [waffle-image]: https://badge.waffle.io/ethereum/web3.js.svg?label=ready&title=Ready
 [waffle-url]: http://waffle.io/ethereum/web3.js
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fleovarmak-koinex%2Fweb3.js.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fleovarmak-koinex%2Fweb3.js?ref=badge_large)
